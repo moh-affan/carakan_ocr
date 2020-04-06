@@ -1,0 +1,102 @@
+opencv-utils (0.0.2)                              - OpenCV Utilities
+ctypes-opencv (0.8.0)                             - ctypes-opencv - A Python wrapper for OpenCV using ctypes
+dajngo-opencv (0.3)                               - Django Opencv integratio
+opencv-wrapper (0.2.3)                            - A Python wrapper for OpenCV.
+opencv-cython (0.4)                               - An alternative OpenCV wrapper
+opencv-python (4.2.0.34)                          - Wrapper package for OpenCV python bindings.
+opencv-iav (0.0.3)                                - Take a picture or record a video using OpenCV.
+opencv-samjones (0.0.1)                           - Perform Some Opencv face detection functions.
+opencv-transforms (0.0.3.post1)                   - A drop-in replacement for Torchvision Transforms using OpenCV
+simple-opencv-ocr (0.0)                           - A simple OCR with OpenCV
+opencv-python-armv7l (3.2.0)                      - opencv-python on armv7l.
+opencv-log (1.2.1)                                - OpenCV based visual logger for debugging,logging and testing image processing code
+thumbor-engine-opencv (1.0.0)                     - OpenCV imaging engine for thumbor.
+opencv-python-aarch64 (3.3.0.1)                   - Wrapper package for OpenCV python bindings.
+opencv-python-nonfree (4.1.1.1)                   - Wrapper package for OpenCV python bindings.
+opencv-python-headless (4.2.0.34)                 - Wrapper package for OpenCV python bindings.
+opencv-contrib-python (4.2.0.34)                  - Wrapper package for OpenCV python bindings.
+  INSTALLED: 4.1.0.25
+  LATEST:    4.2.0.34
+flask-opencv-streamer (1.4)                       - A Python package for easily streaming OpenCV footage, even with authentication
+opencv-contrib-python-nonfree (4.1.1.1)           - Wrapper package for OpenCV python bindings.
+opencv-openvino-contrib-python (4.1.1.26)         - Wrapper package for OpenCV python bindings.
+opencv-python-nonfree-headless (4.1.1.1)          - Wrapper package for OpenCV python bindings.
+opencv-contrib-python-headless (4.2.0.34)         - Wrapper package for OpenCV python bindings.
+opencv-torchvision-transforms-yuzhiyang (0.0.1)   - an opencv based rewriting of the "transforms" in torchvision package
+opencv-contrib-python-nonfree-headless (4.1.1.1)  - Wrapper package for OpenCV python bindings.
+opencv-python-inference-engine (4.2.0.4)          - Wrapper package for OpenCV 4.2.0 with Inference Engine 2020.1 python bindings
+opencv-draw-tools-fernaperg (1.2.0)               - Library to help the drawing process with OpenCV. Thought to add labels to the images. Classification of images, etc.
+opencv-mat (0.1.4)                                - A cython interface for paper: A global sampling method for alpha matting
+opencv-rolling-ball (1.0.1)                       - Now function returns both result image and subtracted background
+pypylon-opencv-viewer (1.1.0)                     - Impro function application while saving and getting image
+tvl-backends-opencv (0.1.0b16)                    - 
+mosaicode-lib-c-opencv (1.0.0.dev1)               - Computer Music Programming Tool
+cvhelper (0.1.0)                                  - A helper package for OpenCV
+simretina (0.1.4)                                 - Simulation of the Retina with OpenCV.
+opencv_helpers (1.1)                              - Helper functions for opencv
+rakali (0.0.11)                                   - OpenCV Helper Tools
+findit-client (0.2.2)                             - client for findit, with no opencv needed
+aug (0.2.4)                                       - Augmentation library based on OpenCV.
+cvtorch (0.0.9)                                   - vision tools based on opencv
+vidstab (1.7.3)                                   - Video Stabilization using OpenCV
+cv2-utils (0.2.0)                                 - Utils for cv based on OpenCV
+opencv_engine (1.0.1)                             - OpenCV imaging engine for thumbor.
+ImageSource (1.0b2)                               - Image sequence abstraction for OpenCV.
+virtualpp (0.0.7)                                 - An opencv based virtual pingpong
+cvtools (0.1.15)                                  - OpenCV tools for CV applications
+cvx (0.1.3)                                       - OpenCV 'extension' with routinely used methods
+ObjectExtractor (0.2.2)                           - Extract objects from images with OpenCV
+riehmcolor2-alex555155 (0.13)                     - Color analysis suite (opencv-python)
+facerecog (0.0.1)                                 - PyQt OpenCV Face Recognition Widget
+unwrap-labels (1.1.1)                             - Library to unwrap labels using OpenCV
+cvimage (0.1.1)                                   - Chainable wrapper for OpenCV's python bindings.
+CVtypes (0.1)                                     - Python OpenCV wrapper using ctypes
+vec2img (0.1.0)                                   - convert OpenCV samples file to images
+fitch (0.4.4)                                     - Android UI automation based on opencv
+FaceExtractor (0.1.5)                             - Extract faces from images with OpenCV
+imagezmq (1.0.1)                                  - Transporting OpenCV images via ZMQ
+cmapy (0.6.6)                                     - Use Matplotlib colormaps with OpenCV in Python.
+codedeepai (0.2.2)                                - Utility functions for working with videos in OpenCV
+pyvideoreader (0.4.3)                             - Pythonic wrapper around opencv's VideoCapture().
+cv2-wrapper (0.1)                                 - Wrapper for python opencv 2.4.12 32bit
+vext.OpenCV (0.5.20)                              - Use system OpenCV from a virtualenv
+cv2wrap (1.0)                                     - Wrapper for python opencv 2.4.12 32bit
+rapideye (0.1.4)                                  - An Image Search Toolkit based on OpenCV.
+opencvz-contrib-python (4.1.1.26)                 - Wrapper package for OpenCV python bindings.
+TiffCapture (0.1.6)                               - Brings the power of OpenCV to TIFF videos; provides interface to multi-part TIFFs compatible with OpenCV's VideoCapture.
+remotecv (3.0.0)                                  - remotecv is an OpenCV worker for facial and feature recognition
+big-g (1.0.3)                                     - OpenCV object tracking for Big G experiments
+scvf (1.1.2)                                      - a framework that wraps opencv for our needs in FRC
+numericvision (0.1.0)                             - Detects numeric displays in images using OpenCV
+imagestoanimation (0.1.9)                         - Converts a series of images to an animation using OpenCV
+pirahansiah (0.0.10)                              - Farshid PirahanSiah workshop computer vision OpenCV
+rtsp (1.1.8)                                      - RTSP client wrapper around gstreamer/opencv
+python-imageseach-drov0 (1.0.6)                   - A wrapper around openCv to perform image searching
+pyimagevideo (1.0.1)                              - Demos of OpenCV, read/write videos, etc.
+coat (0.6)                                        - Wrapper around ndarray and opencv for rapid prototyping
+camera-fusion (0.0.8)                             - Multiple cameras calibration and fusion with OpenCV Python.
+atx (1.2.0)                                       - Automation test library for android based on opencv
+EasyVision (0.0.3)                                - Easy Computer Vision Library using OpenCV.
+helper_functions (2.0.11)                         - A simple module of simple function, for opencv and python3
+images2video (0.3)                                - Python images to video library using OpenCV
+image-pyqt (0.0.2)                                - An Image Widget for display OpenCV Mat image
+geo-rendering (1.1.0)                             - Rendering of images from a shapefile using OpenCV
+hampy (1.4.1)                                     - Simple Hamming Marker Detection using OpenCV
+yolo-rahul-sinha (0.0.1)                          - Yolo implementation on a given picture using Opencv
+head-pose (0.0.4)                                 - Use opencv solvePnP to do head pose estimation
+CamCalib-jpvolt (0.1.0)                           - Opencv based camera calibration lib for stereo vision
+opencv_cffi (0.2.2)                               - A random subset of OpenCV's functionality, wrapped via CFFI
+Tippy (0.1)                                       - another Toolbox for Image Processing in PYthon, based on OpenCV
+cv2module (0.1.2)                                 - A package that provides various functions to assist the OpenCV workflow
+qandaomr (1.2.3.post1)                            - Q&A Python and OpenCV OMR (optical mark recognition)
+bayesian-sgm (1.0.0)                              - Um segmentador de cores bayesiano para a OpenCV.
+nionswift-video-capture (0.1.0)                   - Capture video from built-in camera using OpenCV.
+opencvutils (0.9.4)                               - Simple OpenCV 3.x image processing functions
+Willow (1.3)                                      - A Python image library that sits on top of Pillow, Wand and OpenCV
+athentoimaging (0.1)                              - Image cleaning and OCR improvement package in Python using OpenCV.
+facereg (0.2.1.2)                                 - Face recognition from identity cards with OpenCV and Deep Learning.
+pyglview (1.1.10)                                 - Python OpenGL direct viewer instead of OpenCV imshow/waitKey.
+image-mining (0.1.6)                              - Extract useful information from scanned images using OpenCV
+zoloto (0.5.2)                                    - A fiducial marker system powered by OpenCV - Supports ArUco and April
+pyvision3 (0.1.5)                                 - Facilitates computer vision research and prototyping using python and openCV
+cvttf (0.0.1)                                     - Draw text on OpenCV images using TTF/OTF fonts
